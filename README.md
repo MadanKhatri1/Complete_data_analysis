@@ -1,0 +1,1 @@
+# This is complete data analysis of startup funding globally
